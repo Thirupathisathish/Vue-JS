@@ -1,0 +1,402 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "password": "123456",
+      "age": 25,
+      "address": "hyd"
+    },
+    {
+      "id": 1687334233248,
+      "name": "tt",
+      "password": "tt",
+      "age": "0tt",
+      "address": "tt"
+    },
+    {
+      "id": 1687334264274,
+      "name": "ttt",
+      "password": "ttt",
+      "age": "0ttt",
+      "address": "ttt"
+    },
+    {
+      "id": 1687334325779,
+      "name": "rg",
+      "password": "gr",
+      "age": 0,
+      "address": "rg"
+    },
+    {
+      "id": 1687334467267,
+      "name": "2",
+      "password": "3",
+      "age": 0,
+      "address": "3"
+    },
+    {
+      "id": 1687334473570,
+      "name": "2",
+      "password": "3",
+      "age": "02",
+      "address": "3"
+    },
+    {
+      "id": 1687334474145,
+      "name": "2",
+      "password": "3",
+      "age": "02",
+      "address": "3"
+    },
+    {
+      "id": 1687334474281,
+      "name": "2",
+      "password": "3",
+      "age": "02",
+      "address": "3"
+    },
+    {
+      "id": 1687334474401,
+      "name": "2",
+      "password": "3",
+      "age": "02",
+      "address": "3"
+    },
+    {
+      "id": 1687503613514,
+      "name": "tytyty",
+      "password": "tytyt",
+      "age": 5,
+      "address": "5y5y"
+    },
+    {
+      "id": 1687516611287,
+      "name": "354rt34",
+      "password": "aQ2@asdfg",
+      "age": 6,
+      "address": "34tn"
+    },
+    {
+      "id": 1687516619478,
+      "name": "536356",
+      "password": "356",
+      "age": 6,
+      "address": "356"
+    },
+    {
+      "id": 1687581099971,
+      "name": "erererer",
+      "password": "er",
+      "age": 0,
+      "address": "345rwt"
+    },
+    {
+      "id": 1687608724593,
+      "name": "dddddd",
+      "password": "AsQ@2222",
+      "age": 2,
+      "address": "22w"
+    },
+    {
+      "id": 1687849251183,
+      "name": "sairam",
+      "password": "Sairam22@",
+      "age": 22,
+      "address": "hyderabad"
+    },
+    {
+      "id": 1687868399832,
+      "name": "qqq",
+      "password": "qqAq@1222",
+      "age": 0,
+      "address": "qqqq"
+    },
+    {
+      "id": 1687925563083,
+      "name": "tr",
+      "password": "tr",
+      "age": 0,
+      "address": "tr"
+    },
+    {
+      "id": 1687925577668,
+      "name": "trt",
+      "password": "trt",
+      "age": 0,
+      "address": "trtr"
+    },
+    {
+      "id": 1687926224200,
+      "name": "ssssss",
+      "password": "ssA@2345",
+      "age": 0,
+      "address": "ss3de"
+    },
+    {
+      "id": 1688019745622,
+      "name": "asddd",
+      "password": "AsQ@2222",
+      "age": 2,
+      "address": "22222"
+    },
+    {
+      "id": 1688131506137,
+      "name": "SsdsdW",
+      "password": "csdcQ@#344",
+      "age": 3,
+      "address": "bgffgn"
+    },
+    {
+      "id": 1688309730432,
+      "name": "t4t4t",
+      "password": "AQ@234df",
+      "age": 4,
+      "address": "4ffff"
+    },
+    {
+      "id": 1688467424386,
+      "name": "dfdf222",
+      "password": "fddAQ@22",
+      "age": 23,
+      "address": "dsd333"
+    },
+    {
+      "id": 1688491283652,
+      "name": "sdsds",
+      "password": "dsdAQ@123",
+      "age": 3,
+      "address": "dssdds"
+    },
+    {
+      "id": 1688536683623,
+      "name": "weweee",
+      "password": "Asq@23ddd",
+      "age": 3,
+      "address": "ddddd"
+    },
+    {
+      "id": 1688907194772,
+      "name": "wertt",
+      "password": "twetwetSQ@234",
+      "age": 3,
+      "address": "wrwrwer"
+    },
+    {
+      "id": 1688971821281,
+      "name": "sssss",
+      "password": "ASwdwdwwdwd222@",
+      "age": 12,
+      "address": "adadad"
+    },
+    {
+      "id": 1688982337366,
+      "name": "3r3r3r3r",
+      "password": "A@!123ed",
+      "age": "3",
+      "address": "fefef"
+    },
+    {
+      "id": 1688982789934,
+      "name": "sss@dd",
+      "password": "Sss@3def",
+      "age": 21,
+      "address": "fefefe"
+    },
+    {
+      "id": 1688991606395,
+      "name": "wewrwr",
+      "password": "Adddd!!2",
+      "age": 20,
+      "address": "dfdfdf"
+    },
+    {
+      "id": 1689055137188,
+      "name": "asssd",
+      "password": "AS@234rf",
+      "age": 18,
+      "address": "asgrg"
+    },
+    {
+      "id": 1689080450205,
+      "name": "sathish",
+      "password": "Tsathish12@",
+      "age": 26,
+      "address": "Hyderabad\n"
+    },
+    {
+      "id": 1689081129870,
+      "name": "wewee",
+      "password": "weweS@#33",
+      "age": 33,
+      "address": "333333"
+    }
+  ],
+  "starters": [
+    {
+      "id": 1,
+      "image": "/src/assets/starters/chicken-skewers.jpg",
+      "name": "chicken-skewers",
+      "description": "chicken-skewers",
+      "price": 10,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/starters/chicken.jpg",
+      "name": "chicken",
+      "description": "chicken",
+      "price": 15,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/starters/fish.jpg",
+      "name": "fish",
+      "description": "fish",
+      "price": 12,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/starters/different-dishes-indian-cuisine-are-served-table-i.jpg",
+      "name": "Mixed",
+      "description": "Different-dishes-indian-cuisine",
+      "price": 8,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/starters/tandoor.jpg",
+      "name": "tandoor",
+      "description": "Chicken tandoor",
+      "price": 9,
+      "quantity": 0
+    }
+  ],
+  "main-dishes": [
+    {
+      "id": 1,
+      "image": "/src/assets/main/biryani bowl.jpg",
+      "name": "Biryani",
+      "description": "Biryani bowl",
+      "price": 10,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/main/selection-food-tray_1340-23421.jpg",
+      "name": "Mixed Rice",
+      "description": "selection-food-tray",
+      "price": 15,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/main/fried.jpg",
+      "name": "Fried",
+      "description": "Fried",
+      "price": 12,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "meatplate",
+      "image": "/src/assets/main/meatplate.jpg",
+      "description": "meatplate",
+      "price": 8,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/main/thali.jpg",
+      "name": "Thali",
+      "description": "Veg Thali",
+      "price": 9,
+      "quantity": 0
+    }
+  ],
+  "desserts": [
+    {
+      "id": 1,
+      "image": "/src/assets/desserts/chocolate-brownie-cake-with-scoop-ice-cream.jpg",
+      "name": "chocolate-brownie",
+      "description": "chocolate-brownie-cake",
+      "price": 10,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/desserts/cupcakes-with-strawberries-cream-white-table.jpg",
+      "name": "cupcakes",
+      "description": "cupcakes-with-strawberries",
+      "price": 15,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "gulab-jamun",
+      "image": "/src/assets/desserts/gulab-jamun-clay-pot-indian-dessert-sweet-dish_136354-.jpg",
+      "description": "gulab-jamun-clay-pot",
+      "price": 12,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/desserts/plate-with-chocolate-topping-ice-cream-cups_23-2148505921..jpg",
+      "name": "IceCream",
+      "description": "plate-with-chocolate-topping",
+      "price": 8,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/desserts/slice-cheesecake-with-slice-taken-out-it.jpg",
+      "name": "Cheesecake",
+      "description": "slice-cheesecake-with-slice",
+      "price": 9,
+      "quantity": 0
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "image": "/src/assets/drinks/cold-lime-apple-drink_140725-7504.jpg",
+      "name": "Lime Apple",
+      "description": "cold-lime-apple-drink",
+      "price": 10,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/drinks/fruit-cocktail-with-fresh-strawberry_140725-1777.jpg",
+      "name": "fruit-cocktail",
+      "description": "fruit-cocktail-with-fresh-strawberry",
+      "price": 15,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/drinks/glass-tomato-drink-with-parsley_140725-4882.jpg",
+      "name": "Tomato parsley",
+      "description": "glass-tomato-drink-with-parsley",
+      "price": 12,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/drinks/raspberry-margarita-cocktail-with-raspberry-liqueur-glass-bar-menu-black-background_187166-54651.jpg",
+      "name": "raspberry-margarita",
+      "description": "raspberry-margarita-cocktail",
+      "price": 8,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/drinks/red-iced-cocktail-table_140725-.jpg",
+      "name": "Red-Iced",
+      "description": "red-iced-cocktail",
+      "price": 9,
+      "quantity": 0
+    }
+  ]
+}

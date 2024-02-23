@@ -1,0 +1,10 @@
+
+
+body {
+
+   background-image: url("./assets/banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  backface-visibility: hidden;
+  height: 100vh;
+}

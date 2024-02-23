@@ -1,0 +1,37 @@
+{
+  "name": "restaurant-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "json-server": "json-server --watch ./data.json --port 3001"
+  },
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^2.2.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.10.5",
+    "bootstrap-icons-vue": "^1.10.3",
+    "sweetalert2": "^11.7.12",
+    "vue": "^3.3.4",
+    "vue-marquee-text-component": "^2.0.1",
+    "vue-material-design-icons": "^5.2.0",
+    "vue-router": "^4.2.2",
+    "vue-toasted": "^1.1.28",
+    "vue3-marquee-text": "^1.0.0",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9",
+    "vue-tsc": "^1.4.2"
+  }
+}
